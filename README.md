@@ -1,6 +1,6 @@
 📊 Hi there! I’m Chi Ho Ng, Mark
 
-I’m a Researcher and Data Analyst relocated to Toronto Canada. With over 10 years of experience in educational data research and quantitative analysis, I’m passionate about developing predictive models and transforming complex data into clear, strategic insights that drive policy decisions and business outcomes.
+I’m a Researcher and Data Analyst relocated to Toronto Canada. With over 10 years of experience in academic research, marketing analytics and quantitative analysis, I’m passionate about developing predictive models and transforming complex data into clear, strategic insights that drive policy decisions and business outcomes.
 
 🔍 Currently, I’m enhancing my skills with a Graduate Certificate in Business Analytics (High Distinction) from Seneca Polytechnic, and pursuing a Certificate in Data Science and Machine Learning from University of Toronto.
 
