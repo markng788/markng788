@@ -1,4 +1,4 @@
-📊 Hi there! I’m Chi Ho Ng, Mark
+## 📊 Hi there! I’m Chi Ho Ng, Mark
 
 I’m a Researcher and Data Analyst relocated to Toronto Canada. With over 10 years of experience in academic research, marketing analytics and quantitative analysis, I’m passionate about developing predictive models and transforming complex data into clear, strategic insights that drive policy decisions and business outcomes.
 
